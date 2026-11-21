@@ -37,7 +37,9 @@ The repository is organized by learning topic. Each directory contains C++ progr
 cpp-learning-journey/
 ├── README.md
 └── 01-hello-world/
-    └── main.cpp
+    └── hello.cpp
+└── 02-variables/
+    └── var.cpp
 ```
 
 Additional directories and learning notes will be added as I progress.
@@ -47,7 +49,7 @@ Additional directories and learning notes will be added as I progress.
 The following checklist tracks the C++ topics I plan to explore.
 
 - [x] Write my first C++ program
-- [ ] Variables and data types
+- [x] Variables and data types
 - [ ] User input and output
 - [ ] Operators and expressions
 - [ ] Conditional statements
